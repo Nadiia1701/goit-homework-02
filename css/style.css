@@ -1,0 +1,173 @@
+body {
+    font-family: "Roboto", "Raleway", sans-serif;
+    background: #FFF;
+    color: #434455;
+}
+
+.contact-info, .link, .logo-part1, .logo-part2, .logo-part3 {
+    text-decoration: none;
+}
+
+.logo-part1 {
+    color:#4D5AE5;
+    font-family: Raleway;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
+}
+.logo-part2 {
+    color: #2E2F42;
+    font-family: Raleway;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
+}
+
+.link {
+    color:#2E2F42;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.32px;
+}
+
+.link:hover, .link:focus {
+    color: #404BBF;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.32px;
+}
+
+.contact-info {
+    color: #434455;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.2;
+    letter-spacing: 0.32px;
+}
+
+.contact-info:hover, .contact-info:focus {
+    color: #404BBF;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.2;
+    letter-spacing: 0.32px;
+}
+
+.hero {
+    background: #2E2F42;
+    width: 1440px;
+    height: 600px;
+    flex-shrink: 0;
+}
+
+.main-title {
+    color: #FFF;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 56px;
+    line-height: 60px;
+    letter-spacing: 1.12px;
+    width: 496px;
+}
+
+.button {
+    border-radius: 4px;
+    background: #4D5AE5;
+    box-shadow: rgba(0, 0, 0, 0.15);
+    cursor: pointer;
+}
+
+.button:hover, .button:focus {
+    border-radius: 4px;
+    background: #404BBF;
+    box-shadow: rgba(0, 0, 0, 0.15);
+}
+
+.benefits-title {
+    color:#2E2F42;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.4px;
+}
+
+.benefits-text {
+    color:#434455;
+    font-family: Roboto;
+    font-size: 16px;
+    line-height: 1.2;
+    letter-spacing: 0.32px;
+}
+
+.section-title {
+    color: #2E2F42;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 40px;
+    letter-spacing: 0.72px;
+    text-transform: capitalize;
+}
+
+.list-title {
+    color:#2E2F42;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.4px;
+}
+
+.list-text {
+    color: #434455;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 16px;
+    line-height: 1.2;
+    letter-spacing: 0.32px;
+}
+
+footer {
+    background: #2E2F42;
+    width: 1440px;
+    height: 312px;
+    flex-shrink: 0;
+}
+
+.logo-part3 {
+    color:#F4F4FD;
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
+}
+
+.footer-text {
+    color:#F4F4FD;
+    font-family: Roboto;
+    font-size: 16px;
+    line-height: 1.2;
+    letter-spacing: 0.32px;
+    width: 264px;
+}
