@@ -4,7 +4,7 @@ body {
     color: #434455;
 }
 
-.logo-part-one, .logo-part-two, .logo-part-three, .list, .link, .contact-info {
+.logo-part-one, .logo-part-two, .logo-part-three, .list, .link, .contact-link {
     text-decoration: none;
     list-style-type: none;
 }
@@ -50,7 +50,7 @@ body {
     font-style: normal
 }
 
-.contact-info {
+.contact-link {
     color: #434455;
     font-size: 16px;
     font-weight: 400;
@@ -58,7 +58,7 @@ body {
     letter-spacing: 0.32px;
 }
 
-.contact-info:hover, .contact-info:focus {
+.contact-link:hover, .contact-link:focus {
     color: #404BBF;
     font-size: 16px;
     font-weight: 400;
