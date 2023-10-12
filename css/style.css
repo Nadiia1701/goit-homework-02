@@ -1,6 +1,6 @@
 body {
     font-family: "Roboto", sans-serif;
-    background: #FFF;
+    background-color: #FFF;
     color: #434455;
 }
 
@@ -66,7 +66,7 @@ body {
 }
 
 .hero {
-    background: #2E2F42;
+    background-color: #2E2F42;
 }
 
 .main-title {
@@ -90,7 +90,7 @@ body {
 }
 
 .button:hover, .button:focus {
-    background: #404BBF;
+    background-color: #404BBF;
 }
 
 .benefits-title {
@@ -109,11 +109,11 @@ body {
 }
 
 .our-team {
-    background:#F4F4FD;
+    background-color:#F4F4FD;
 }
 
 .our-team-list {
-    background: #FFF;
+    background-color: #FFF;
 }
 
 .section-title {
@@ -144,11 +144,11 @@ body {
 }
 
 .portfolio {
-    background: #FFF;
+    background-color: #FFF;
 }
 
 .footer-section {
-    background: #2E2F42;
+    background-color: #2E2F42;
 }
 
 .logo-part-three {
