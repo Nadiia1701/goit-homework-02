@@ -4,8 +4,9 @@ body {
     color: #434455;
 }
 
-.contact-info, .link, .logo-part1, .logo-part2, .logo-part3 {
+.logo-part-one, .logo-part-two, .logo-part-three, .list, .link, .contact-info {
     text-decoration: none;
+    list-style-type: none;
 }
 
 .logo-part-one {
@@ -78,10 +79,10 @@ body {
 }
 
 .button {
-    background: #4D5AE5;
+    background-color: #4D5AE5;
     cursor: pointer;
     color:#FFF;
-    font-family: "Roboto", sans-serif;
+    font-family: inherit;
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
@@ -110,10 +111,6 @@ body {
 
 .our-team {
     background-color:#F4F4FD;
-}
-
-.our-team-list {
-    background-color: #FFF;
 }
 
 .section-title {
